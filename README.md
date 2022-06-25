@@ -27,4 +27,4 @@ I'm really intrested in cybersecurity and all the things related. Quick summary 
 If you want to collaborate on something (some cybersec project or whatever) then look at the section above 
 
 
-> Repository updated at Wed Jun 22 01:57:04 UTC 2022 
+> Repository updated at Sat Jun 25 01:52:50 UTC 2022 
