@@ -8,7 +8,7 @@
 
 ### :grey_question: About me
 
-My name is Arek (widely known as `Arqsz`) and I am a Penetration Tester from Poland.
+My name is Arkadiusz (widely known as `Arqsz`) and I am a Penetration Tester from Poland.
 
 I'm really intrested in cybersecurity and all the things related. Quick summary what I am currently into:
 - co-founder of [White Hats SC](https://whitehats.pwr.edu.pl/) at WUST :chart:
