@@ -18,12 +18,11 @@ I'm really intrested in cybersecurity and all the things related. Quick summary 
 
 ### 📫 How to reach me:
 - DM me at [Twitter](https://twitter.com/arqsz) :postbox:
-- send an email to [White Hats](mailto:kn.whitehats@pwr.edu.pl) (I'll read it eventually :grin:)
-- send an email to [me directly](mailto:arqsz@protonmail.com) (less likely for me to read it than the White Hats' one :smile:) 
+- send an email to [me directly](mailto:contact@arqsz.net)
 
 ### 👯 Collaboration 
 
 If you want to collaborate on something (some cybersec project or whatever) then look at the section above 
 
 
-> Repository updated at Thu Oct 19 01:04:05 UTC 2023 
+> Repository updated at Thu Oct 19 12:36:05 UTC 2023 
