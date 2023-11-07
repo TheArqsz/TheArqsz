@@ -12,7 +12,7 @@ My name is Arek (widely known as `Arqsz`) and I am a Penetration Tester from Pol
 
 I'm really intrested in cybersecurity and all the things related. Quick summary what I am currently into:
 - co-founder of [White Hats SC](https://whitehats.pwr.edu.pl/) at WUST :chart:
-- member of White Hats' Synt@x Err0r CTF Team :trophy: (currently 6. place in a country)
+- member of White Hats' Synt@x Err0r CTF Team :trophy: (currently 7. place in a country)
 - spare time programmer (mostly Python) :desktop_computer:
 - Penetration Tester/Security Researcher/Red Team Operator at SEQRED
 
@@ -25,4 +25,4 @@ I'm really intrested in cybersecurity and all the things related. Quick summary 
 If you want to collaborate on something (some cybersec project or whatever) then look at the section above 
 
 
-> Repository updated at Sat Nov  4 01:03:55 UTC 2023 
+> Repository updated at Tue Nov  7 01:05:43 UTC 2023 
