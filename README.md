@@ -14,7 +14,7 @@ I'm really intrested in cybersecurity and all the things related. Quick summary 
 - co-founder of [White Hats SC](https://whitehats.pwr.edu.pl/) at WUST :chart:
 - member of White Hats' Synt@x Err0r CTF Team :trophy: (currently 8. place in a country)
 - spare time programmer (mostly Python) :desktop_computer:
-- Penetration Tester/Security Researcher/Red Team Operator at SEQRED
+- Penetration Tester/Security Researcher/Bug Bounty Hunter
 
 ### 📫 How to reach me:
 - DM me at [Twitter](https://twitter.com/arqsz) :postbox:
@@ -25,4 +25,4 @@ I'm really intrested in cybersecurity and all the things related. Quick summary 
 If you want to collaborate on something (some cybersec project or whatever) then look at the section above 
 
 
-> Repository updated at Mon Mar 10 01:14:29 UTC 2025 
+> Repository updated at Tue Mar 11 21:34:38 UTC 2025 
