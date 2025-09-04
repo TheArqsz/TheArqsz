@@ -8,13 +8,12 @@
 
 ### :grey_question: About me
 
-My name is Arek (widely known as `Arqsz`) and I am a Penetration Tester from Poland.
+My name is Arek (widely known as `Arqsz`) and I am a Penetration Tester and Security Researcher from Poland.
 
 I'm really intrested in cybersecurity and all the things related. Quick summary what I am currently into:
-- co-founder of [White Hats SC](https://whitehats.pwr.edu.pl/) at WUST :chart:
-- member of White Hats' Synt@x Err0r CTF Team :trophy: (currently {{PLACE}}. place in a country)
-- spare time programmer (mostly Python) :desktop_computer:
 - Penetration Tester/Security Researcher/Bug Bounty Hunter
+- spare time programmer (mostly Bash and Python and most recently Golang and JS) :desktop_computer:
+- co-founder of [White Hats SC](https://whitehats.pwr.edu.pl/) at WUST :chart:
 
 ### 📫 How to reach me:
 - DM me at [Twitter](https://twitter.com/arqsz) :postbox:
