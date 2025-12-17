@@ -80,6 +80,18 @@ Here are some project I work on or participate in:
 <tr>
   <td>
     
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=BurpSuite-Gitleaks-Extension&theme=radical)](https://github.com/TheArqsz/BurpSuite-Gitleaks-Extension)
+  
+  </td>
+  <td>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=BurpSuite-Just-Header-Injector&theme=radical)](https://github.com/TheArqsz/BurpSuite-Just-Header-Injector)
+    
+  </td>
+</tr>
+<tr>
+  <td>
+    
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=csp-evaluator-burp&theme=radical)](https://github.com/TheArqsz/csp-evaluator-burp)
   
   </td>
