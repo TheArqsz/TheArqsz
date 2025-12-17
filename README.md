@@ -80,6 +80,18 @@ Here are some project I work on or participate in:
 <tr>
   <td>
     
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=BurpSuite-Gitleaks-Extension&theme=radical)](https://github.com/TheArqsz/BurpSuite-Gitleaks-Extension)
+  
+  </td>
+  <td>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=BurpSuite-Just-Header-Injector&theme=radical)](https://github.com/TheArqsz/BurpSuite-Just-Header-Injector)
+    
+  </td>
+</tr>
+<tr>
+  <td>
+    
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=csp-evaluator-burp&theme=radical)](https://github.com/TheArqsz/csp-evaluator-burp)
   
   </td>
@@ -92,4 +104,4 @@ Here are some project I work on or participate in:
 </table>
 </div>
 
-> Repository updated at Tue Dec 16 00:28:23 UTC 2025 
+> Repository updated at Wed Dec 17 17:31:18 UTC 2025 
