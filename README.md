@@ -44,64 +44,64 @@ Here are some project I work on or participate in:
 <tr>
   <td>
     
-  [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheArqsz&repo=JSRecon-Buddy&theme=radical)](https://github.com/TheArqsz/JSRecon-Buddy)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=JSRecon-Buddy&theme=radical)](https://github.com/TheArqsz/JSRecon-Buddy)
   
   </td>
   <td>
 
-  [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheArqsz&repo=tenant-domains&theme=radical)](https://github.com/TheArqsz/tenant-domains)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=tenant-domains&theme=radical)](https://github.com/TheArqsz/tenant-domains)
     
   </td>
 </tr>
 <tr>
   <td>
     
-  [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheArqsz&repo=BurpSense&theme=radical)](https://github.com/TheArqsz/BurpSense)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=bashdog&theme=radical)](https://github.com/TheArqsz/bashdog)
   
   </td>
   <td>
 
-  [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheArqsz&repo=interactsh-collaborator-rev&theme=radical)](https://github.com/TheArqsz/interactsh-collaborator-rev)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=interactsh-collaborator-rev&theme=radical)](https://github.com/TheArqsz/interactsh-collaborator-rev)
     
   </td>
 </tr>
 <tr>
   <td>
     
-  [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheArqsz&repo=interactsh-server-docker&theme=radical)](https://github.com/TheArqsz/interactsh-server-docker) 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=interactsh-server-docker&theme=radical)](https://github.com/TheArqsz/interactsh-server-docker) 
   
   </td>
   <td>
 
-  [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheArqsz&repo=domainspotter&theme=radical)](https://github.com/TheArqsz/domainspotter)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=domainspotter&theme=radical)](https://github.com/TheArqsz/domainspotter)
     
   </td>
 </tr>
 <tr>
   <td>
     
-  [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheArqsz&repo=BurpSuite-Gitleaks-Extension&theme=radical)](https://github.com/TheArqsz/BurpSuite-Gitleaks-Extension)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=BurpSuite-Gitleaks-Extension&theme=radical)](https://github.com/TheArqsz/BurpSuite-Gitleaks-Extension)
   
   </td>
   <td>
 
-  [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheArqsz&repo=BurpSuite-Just-Header-Injector&theme=radical)](https://github.com/TheArqsz/BurpSuite-Just-Header-Injector)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=BurpSuite-Just-Header-Injector&theme=radical)](https://github.com/TheArqsz/BurpSuite-Just-Header-Injector)
     
   </td>
 </tr>
 <tr>
   <td>
     
-  [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheArqsz&repo=csp-evaluator-burp&theme=radical)](https://github.com/TheArqsz/csp-evaluator-burp)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=csp-evaluator-burp&theme=radical)](https://github.com/TheArqsz/csp-evaluator-burp)
   
   </td>
   <td>
 
-  [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=TheArqsz&repo=spaceship-ip&theme=radical)](https://github.com/TheArqsz/spaceship-ip)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=spaceship-ip&theme=radical)](https://github.com/TheArqsz/spaceship-ip)
     
   </td>
 </tr>
 </table>
 </div>
 
-> Repository updated at Sat Feb  7 00:33:41 UTC 2026 
+> Repository updated at Sat Feb  7 20:47:05 UTC 2026 
