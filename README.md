@@ -39,69 +39,16 @@ If you want to collaborate on a cybersec project or just say hi:
 
 Here are some project I work on or participate in:
 
-<div>
-<table>
-<tr>
-  <td>
-    
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=JSRecon-Buddy&theme=radical)](https://github.com/TheArqsz/JSRecon-Buddy)
-  
-  </td>
-  <td>
+* **[JSRecon-Buddy](https://github.com/TheArqsz/JSRecon-Buddy)** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) - Web recon chrome/firefox extensions.
+* **[ct-hulhu](https://github.com/TheArqsz/ct-hulhu)** ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) - Certificate Transparency monitoring tool.
+* **[tenant-domains](https://github.com/TheArqsz/tenant-domains)** ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) - check_mdi replacement.
+* **[bashdog](https://github.com/TheArqsz/bashdog)** ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) - Bash documenting utility.
+* **[interactsh-collaborator-rev](https://github.com/TheArqsz/interactsh-collaborator-rev)** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) - Interactsh collaborator - revised.
+* **[interactsh-server-docker](https://github.com/TheArqsz/interactsh-server-docker)** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) - Dockerized interactsh server.
+* **[domainspotter](https://github.com/TheArqsz/domainspotter)** ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) - Certspotter automation script.
+* **[BurpSuite-Gitleaks-Extension](https://github.com/TheArqsz/BurpSuite-Gitleaks-Extension)** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) - Gitleaks integration for BurpSuite.
+* **[BurpSuite-Just-Header-Injector](https://github.com/TheArqsz/BurpSuite-Just-Header-Injector)** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) - Header injection extension for BurpSuite.
+* **[csp-evaluator-burp](https://github.com/TheArqsz/csp-evaluator-burp)** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) - CSP policy evaluator for BurpSuite.
+* **[spaceship-ip](https://github.com/TheArqsz/spaceship-ip)** ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) - Spaceship prompt IP module.
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=tenant-domains&theme=radical)](https://github.com/TheArqsz/tenant-domains)
-    
-  </td>
-</tr>
-<tr>
-  <td>
-    
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=bashdog&theme=radical)](https://github.com/TheArqsz/bashdog)
-  
-  </td>
-  <td>
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=interactsh-collaborator-rev&theme=radical)](https://github.com/TheArqsz/interactsh-collaborator-rev)
-    
-  </td>
-</tr>
-<tr>
-  <td>
-    
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=interactsh-server-docker&theme=radical)](https://github.com/TheArqsz/interactsh-server-docker) 
-  
-  </td>
-  <td>
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=domainspotter&theme=radical)](https://github.com/TheArqsz/domainspotter)
-    
-  </td>
-</tr>
-<tr>
-  <td>
-    
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=BurpSuite-Gitleaks-Extension&theme=radical)](https://github.com/TheArqsz/BurpSuite-Gitleaks-Extension)
-  
-  </td>
-  <td>
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=BurpSuite-Just-Header-Injector&theme=radical)](https://github.com/TheArqsz/BurpSuite-Just-Header-Injector)
-    
-  </td>
-</tr>
-<tr>
-  <td>
-    
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=csp-evaluator-burp&theme=radical)](https://github.com/TheArqsz/csp-evaluator-burp)
-  
-  </td>
-  <td>
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheArqsz&repo=spaceship-ip&theme=radical)](https://github.com/TheArqsz/spaceship-ip)
-    
-  </td>
-</tr>
-</table>
-</div>
-
-> Repository updated at Sun Feb 22 00:36:11 UTC 2026 
+> Repository updated at Sun Feb 22 16:31:27 UTC 2026 
