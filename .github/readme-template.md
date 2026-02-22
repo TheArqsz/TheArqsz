@@ -39,7 +39,7 @@ If you want to collaborate on a cybersec project or just say hi:
 
 Here are some project I work on or participate in:
 
-* **[JSRecon-Buddy](https://github.com/TheArqsz/JSRecon-Buddy)** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) - Web recon chrome/firefox extensions.
+* **[JSRecon-Buddy](https://github.com/TheArqsz/JSRecon-Buddy)** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) - Web recon chrome/firefox extensions.
 * **[ct-hulhu](https://github.com/TheArqsz/ct-hulhu)** ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) - Certificate Transparency monitoring tool.
 * **[tenant-domains](https://github.com/TheArqsz/tenant-domains)** ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) - check_mdi replacement.
 * **[bashdog](https://github.com/TheArqsz/bashdog)** ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) - Bash documenting utility.
